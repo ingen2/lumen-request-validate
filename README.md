@@ -2,6 +2,9 @@
 <a href="https://packagist.org/packages/pearl/lumen-request-validate"><img src="https://poser.pugx.org/pearl/lumen-request-validate/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/pearl/lumen-request-validate"><img src="https://poser.pugx.org/pearl/lumen-request-validate/license.svg" alt="License"></a>
 
+## Added Support lumen 6.0 beta
+
+
 Lumen doesn't have form request validator seperatly. This package helps developers to segregate the validation layer from the controller to a separate dedicated class.
 
 ## Installation
